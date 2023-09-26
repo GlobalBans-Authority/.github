@@ -7,6 +7,7 @@ other games soontm
 ![GlobalBans Logo](https://globalbans.pw:8443/public/banner.png)
 
 🚀 **Empowering Fair Play Across Minecraft Servers** 🚀
+And other games soon <3
 
 Discover GlobalBans, your partner in creating a wholesome Minecraft gaming environment that players and communities can enjoy. 🎮
 
