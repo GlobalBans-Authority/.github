@@ -1,48 +1,41 @@
-other games soontm
-
-# Hyperlinks on this page may not work as we transistion to GO!
-
 # Welcome to GlobalBans 🌍🛡️
 
-![GlobalBans Logo](https://globalbans.pw:8443/public/banner.png)
+🚀 **Empowering Fair Play Across Gaming Communities** 🚀
 
-🚀 **Empowering Fair Play Across Minecraft Servers** 🚀
-And other games soon <3
-
-Discover GlobalBans, your partner in creating a wholesome Minecraft gaming environment that players and communities can enjoy. 🎮
+Discover GlobalBans, a community-driven anti-cheat platform designed to create fair, fun, and inclusive gaming environments across multiple games. From Minecraft to other popular titles, we’re here to unite players and server owners in the fight against cheating! 🎮
 
 ## What is GlobalBans?
 
-GlobalBanss is built on ~~Java~~ ~~JavaScript~~  **GO**  (There we go!)  
+GlobalBans is built on **Go** for speed, reliability, and scalability.
 
-GlobalBans introduces a unique cross-server cheater punishment system tailored to Minecraft servers. By connecting servers in a collaborative network, we collectively maintain fair gameplay and a welcoming atmosphere for all. Say farewell to disruptive players and greet a united gaming experience! 🌈
+GlobalBans is a collaborative anti-cheat system that connects gaming communities to maintain fair play. By empowering players, server admins, and developers to work together, we track and manage cheaters across a network of servers for various games. Say goodbye to disruptive players and hello to a united, cheat-free gaming experience! 🌈
 
 ## 🌟 Why Choose GlobalBans?
 
-- 🛡️ **Unity for Integrity**: Team up with like-minded servers to ensure fairness without overstepping.
-- ⚖️ **Leveling the Field**: Help us make a ecosystem for play for all without the interference of rule-breakers.
-- 🌐 **Worldwide Bond**: One ban echoes across the network! Collaborate internationally for a cleaner gaming environment.
-- 🤖 **Smart Efficiency**: Simplify the ban process with our automated punishment system.
-- 🎉 **Community Spirit**: Be part of a community dedicated to maintaining a secure and enjoyable environment.
+- 🛡️ **Community-Powered Fairness**: Players and server owners collaborate to enforce integrity without heavy-handed control.
+- ⚖️ **A Level Playing Field**: Help build a gaming ecosystem where everyone can enjoy their favorite games without cheaters.
+- 🌐 **Global Collaboration**: A ban on one server resonates across the network, ensuring a cleaner gaming world worldwide.
+- 🤖 **Smart Automation**: Our tools streamline cheater detection and punishment with optional, community-defined rules.
+- 🎉 **Inclusive Community**: Join a passionate network of gamers dedicated to creating secure and enjoyable experiences.
 
 ## Features
 
-GlobalBans not only provides you with the tools to help keep your server and other servers safe but also a powerful Player Management system, fully usable through just a GUI. Some of our standout features include:
+GlobalBans equips communities with powerful tools to keep servers safe and fun, all accessible through an intuitive interface. Key features include:
 
-- **Cross-Server Cheater Tracking**: Automatically track and prevent banned players from joining other servers in the GlobalBans network.
-- **Automated Punishment System**: Streamline the ban process by applying punishments based on our (completly optional) standaerized rules rules automatically.
-- **Player Management**: Effortlessly manage players through an intuitive GUI, making administration a breeze.
-- **Collaborative Community**: Join a network of server owners dedicated to maintaining an enjoyable and cheat-free Minecraft experience.
+- **Cross-Game Cheater Tracking**: Automatically track and block banned players across servers and games in the GlobalBans network.
+- **Community-Driven Punishments**: Apply punishments based on flexible, community-agreed rules, with automated tools to simplify enforcement.
+- **Player Management Dashboard**: Manage players effortlessly with a user-friendly GUI, perfect for admins of all experience levels.
+- **Multi-Game Support**: Built for Minecraft and expanding to other games, ensuring broad compatibility for diverse gaming communities.
+- **Collaborative Network**: Connect with server owners and players worldwide to share insights and maintain cheat-free environments.
 
 ## Get Started 🚀
 
-Eager to contribute to a safer Minecraft server experience? Join us as we embark on a journey towards fairness and camaraderie. Whether you're a server owner, developer, or devoted player, you have a role to play in the GlobalBans community. If your intrested in joining the team, we ask you to send a 
+Ready to join the fight for fair play? GlobalBans welcomes server owners, developers, and players to contribute to a safer, more enjoyable gaming world. Whether you’re reporting cheaters, managing a server, or developing new tools, you’re part of the solution!
 
-- **Visit Our Website**: https://globalbans.pw:8443
-- **Explore Our Repositories**: Uncover our open-source projects and make an impact!
+- **Visit Our Website**: https://global-bans.org
+- **Explore Our Repositories**: Dive into our open-source projects and help shape the future of fair gaming!
+- **Join the Team**: Interested in contributing? Reach out to us via our website to get involved.
 
-GlobalBans: built on ~~Java~~ no wait ~~JavaScript~~ oops, forgot it's on GO now! (We all make mistakes!)
+GlobalBans: Built on **Go** for a fast, fair, and community-driven gaming future! (No Java or JavaScript here, we promise!)
 
-Join the GlobalBans movement today and help us foster an inclusive and cheat-free Minecraft realm for all! 🌍✨
-
-![Minecraft Players](https://example.com/minecraft-players.png)
+Join the GlobalBans movement today and help us create cheat-free gaming communities for everyone! 🌍✨
