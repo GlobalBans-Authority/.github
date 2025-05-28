@@ -32,10 +32,8 @@ GlobalBans equips communities with powerful tools to keep servers safe and fun, 
 
 Ready to join the fight for fair play? GlobalBans welcomes server owners, developers, and players to contribute to a safer, more enjoyable gaming world. Whether you’re reporting cheaters, managing a server, or developing new tools, you’re part of the solution!
 
-- **Visit Our Website**: https://global-bans.org
+- **Visit Our Website**: https://global-bans.org (Not online yet!)
 - **Explore Our Repositories**: Dive into our open-source projects and help shape the future of fair gaming!
 - **Join the Team**: Interested in contributing? Reach out to us via our website to get involved.
-
-GlobalBans: Built on **Go** for a fast, fair, and community-driven gaming future! (No Java or JavaScript here, we promise!)
 
 Join the GlobalBans movement today and help us create cheat-free gaming communities for everyone! 🌍✨
